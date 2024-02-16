@@ -1,6 +1,6 @@
 #encriptado
 
-Modelo de encriptado por medio de vocales a, e, i, o  y u. 
+Modelo de encriptado por medio de vocales a, e, i, o, u. 
 
 Este proyecto es la solución al Challenge ONE Sprint 01: Construye un encriptador de texto con Javascript de Alura.
 
