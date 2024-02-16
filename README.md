@@ -57,7 +57,7 @@ En este proyecto de utilizó Tello pero existen varias plataformas para uso de e
 ![image](https://github.com/muvadev/encriptado/assets/157439548/acd073db-cbd5-4e41-b5db-93eeab5aec10)
 
 Si has llegado hasta acá, te invito a probar el productivo y me digas si fue de tu agrado y cumple lo anterior, así como a compartirlo y si es posible dejar una estrellita ya que me ayuda un montón y es gratis. 
-En mi linktr.ee encontraras todas mis redes y formas de contacto. 
+En mi [linktr.ee](https://linktr.ee/muvadev) encontraras todas mis redes y formas de contacto. 
 
 Buenas tecleadas. 
 
