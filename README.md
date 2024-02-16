@@ -28,11 +28,9 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 Requisitos:
 
-Debe funcionar solo con letras minúsculas.
-
-No deben ser utilizados letras con acentos ni caracteres especiales.
-
-Debe ser posible convertir una palabra para la versión encriptada y también devolver una palabra encriptada a su versión original.
+- Debe funcionar solo con letras minúsculas.
+- No deben ser utilizados letras con acentos ni caracteres especiales.
+- Debe ser posible convertir una palabra para la versión encriptada y también devolver una palabra encriptada a su versión original.
 
 
 Por ejemplo:
@@ -42,8 +40,9 @@ Por ejemplo:
 "gaitober" => "gato"
 
 La página debe tener campos para:
-Inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
-El resultado debe ser mostrado en la pantalla.
+
+- Inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
+- El resultado debe ser mostrado en la pantalla.
 
 Extras:
 Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del Ctrl+C o de la opción "copiar" del menú de las aplicaciones.
@@ -52,6 +51,7 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 Se recomienda:
 
 Diseño de frame en Figma:
+
 Realizar modelos de presenctación de productivo en [figma](https://www.figma.com), que muestren las diferentes versiones en las que se entregará el proyecto terminado, esto ayudará a trabajar de mejor forma a nivel colectivo y en lo idividual a tener una guía del producto final con mayor detalle, en el camino pueden darse ajustes que mejoren la experiencia o calidad que experimentará el usuario final, de inicio es un gran apoyo para trabajar los proyectos. 
 
 ![image](https://github.com/muvadev/encriptado/assets/157439548/f5c96baa-6397-45e1-a1f0-3dd8f342ae97)
