@@ -53,6 +53,7 @@ El Trello es una herramienta de uso individual que en lo laboral es de mucha uti
 - En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
 - En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
 - Por fin, en la columna Concluido estarán los elementos ya concluidos.
+  
 En este proyecto de utilizó Tello pero existen varias plataformas para uso de equipos de trabajo con funciones similares. Cabe mencionar que en cada apartado se puede encontrar información adicional así como instrucciones precisas para algunos miembros del equipo por dar un ejemplo, y que cada sección tiene listados que marcan el avance que tiene cada integrante, mismo que es registrado individualmente. 
 
 ![image](https://github.com/muvadev/encriptado/assets/157439548/e1947212-b430-4f61-9182-4f03d90902ef)
