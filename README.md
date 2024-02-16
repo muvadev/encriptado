@@ -16,11 +16,11 @@ Los elementos principales del challenge son:
 Detalles del challenge: 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+- La letra "e" es convertida para "enter".
+- La letra "i" es convertida para "imes".
+- La letra "a" es convertida para "ai".
+- La letra "o" es convertida para "ober".
+- La letra "u" es convertida para "ufat".
 
 Requisitos:
 Debe funcionar solo con letras minúsculas.
@@ -49,10 +49,10 @@ Realizar modelos de presenctación de productivo en [figma](https://www.figma.co
 
 Uso de Trello como herramienta de apoyo y comunicación interna:
 El Trello es una herramienta de uso individual que en lo laboral es de mucha utilidad para el orden y seguimiento de actividades de impacto grupal.
-1 - La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
-2 - En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
-3 - En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
-4 - Por fin, en la columna Concluido estarán los elementos ya concluidos.
+- La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
+- En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
+- En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
+- Por fin, en la columna Concluido estarán los elementos ya concluidos.
 En este proyecto de utilizó Tello pero existen varias plataformas para uso de equipos de trabajo con funciones similares. Cabe mencionar que en cada apartado se puede encontrar información adicional así como instrucciones precisas para algunos miembros del equipo por dar un ejemplo, y que cada sección tiene listados que marcan el avance que tiene cada integrante, mismo que es registrado individualmente. 
 
 ![image](https://github.com/muvadev/encriptado/assets/157439548/e1947212-b430-4f61-9182-4f03d90902ef)
