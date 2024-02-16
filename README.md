@@ -46,19 +46,22 @@ Realizar modelos de presenctación de productivo en [figma](https://www.figma.co
 
 ![image](https://github.com/muvadev/encriptado/assets/157439548/f5c96baa-6397-45e1-a1f0-3dd8f342ae97)
 
+
 Uso de Trello como herramienta de apoyo y comunicación interna:
 El Trello es una herramienta de uso individual que en lo laboral es de mucha utilidad para el orden y seguimiento de actividades de impacto grupal.
 1 - La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
 2 - En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
 3 - En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
 4 - Por fin, en la columna Concluido estarán los elementos ya concluidos.
-En este proyecto de utilizó Tello pero existen varias plataformas para uso de equipos de trabajo con funciones similares. 
+En este proyecto de utilizó Tello pero existen varias plataformas para uso de equipos de trabajo con funciones similares. Cabe mencionar que en cada apartado se puede encontrar información adicional así como instrucciones precisas para algunos miembros del equipo por dar un ejemplo, y que cada sección tiene listados que marcan el avance que tiene cada integrante, mismo que es registrado individualmente. 
 
-![image](https://github.com/muvadev/encriptado/assets/157439548/acd073db-cbd5-4e41-b5db-93eeab5aec10)
+![image](https://github.com/muvadev/encriptado/assets/157439548/e1947212-b430-4f61-9182-4f03d90902ef)
+
 
 Si has llegado hasta acá, te invito a probar el productivo y me digas si fue de tu agrado y cumple lo anterior, así como a compartirlo y si es posible dejar una estrellita ya que me ayuda un montón y es gratis. 
 En mi [linktr.ee](https://linktr.ee/muvadev) encontraras todas mis redes y formas de contacto. 
 
-Buenas tecleadas. 
+
+Recuerden "El inifito puede estar en una tecla". 
 
 MuvaDev
