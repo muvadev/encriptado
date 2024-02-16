@@ -4,7 +4,9 @@ Modelo de encriptado por medio de vocales a, e, i, o, u.
 
 Este proyecto es la solución al Challenge ONE Sprint 01: Construye un encriptador de texto con Javascript de Alura.
 
+
 Requisitos del Challenge: 
+
 
 Los elementos principales del challenge son:
 - Título de su sitio web.
@@ -14,6 +16,7 @@ Los elementos principales del challenge son:
 - Área para mostrar el texto encriptado/desencriptado.
 
 Detalles del challenge: 
+
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 - La letra "e" es convertida para "enter".
@@ -22,13 +25,20 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 - La letra "o" es convertida para "ober".
 - La letra "u" es convertida para "ufat".
 
+
 Requisitos:
+
 Debe funcionar solo con letras minúsculas.
+
 No deben ser utilizados letras con acentos ni caracteres especiales.
+
 Debe ser posible convertir una palabra para la versión encriptada y también devolver una palabra encriptada a su versión original.
 
+
 Por ejemplo:
+
 "gato" => "gaitober"
+
 "gaitober" => "gato"
 
 La página debe tener campos para:
@@ -48,6 +58,7 @@ Realizar modelos de presenctación de productivo en [figma](https://www.figma.co
 
 
 Uso de [Trello](https://trello.com/) como herramienta de apoyo y comunicación interna:
+
 El Trello es una herramienta de uso individual que en lo laboral es de mucha utilidad para el orden y seguimiento de actividades de impacto grupal.
 - La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
 - En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
