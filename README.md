@@ -70,7 +70,7 @@ En este proyecto de utilizó [Tello](https://trello.com/) pero existen varias pl
 ![image](https://github.com/muvadev/encriptado/assets/157439548/e1947212-b430-4f61-9182-4f03d90902ef)
 
 
-Si has llegado hasta acá, te invito a probar el productivo aqu{i https://muvadev.github.io/encriptado/ y me digas si fue de tu agrado y cumple lo anterior, así como a compartirlo y si es posible dejar una estrellita ya que me ayuda un montón y es gratis. 
+Si has llegado hasta acá, te invito a probar el productivo https://muvadev.github.io/encriptado/ y me digas si fue de tu agrado y cumple lo anterior, así como a compartirlo y si es posible dejar una estrellita ya que me ayuda un montón y es gratis. 
 En mi [linktr.ee](https://linktr.ee/muvadev) encontraras todas mis redes y formas de contacto. 
 
 
