@@ -1,0 +1,564 @@
+*{
+  background: #2b3c39;
+  font-family: 'Kanit';
+  font-weight: 360;
+  font-size: 33px;
+  line-height: 150%;
+}
+
+.logo{
+  padding-top: 30px;
+  margin-left: 30px;
+  width: 6%;
+  display: outside;
+}
+
+main{
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 10%;
+}
+
+.entrada{
+  margin-right: 60px;
+}
+
+.texto-entrada{
+  border: none;
+  resize: none;
+  color: #e6fff8;
+  margin-top: 10.1%;
+}
+
+::placeholder{
+  color: #FF9B05;
+}
+
+.texto-entrada:focus{
+  outline: none;
+}
+
+.informacion{
+  color: #FF9B05;
+  scale: 60%;
+  margin-left: -160px;
+  cursor: default;
+}
+
+.botones{
+  display: flex;
+  margin-top: 18px;
+
+}
+
+.btn-encriptar{
+background-color: #FF9B05;
+border: 1px solid #FF9B05;
+border-radius: 24px;
+color: #e6fff8;
+cursor: pointer;
+height: 65px;
+width: 328px;
+}
+
+.btn-desencriptar{
+  background: #e6fff8;
+  border: 1px solid #e6fff8;
+  border-radius: 24px;
+  color: #FF9B05;
+  cursor: pointer;
+  height: 65px;
+  width: 328px;
+  margin-left: 30px;
+}
+
+.texto-salida{
+  background: #e6fff8;
+  border: none;
+  resize: none;
+  border-radius: 24px;
+  color: #000000;
+  margin-left: 98px;
+  margin-top: 20px;
+  padding-top: 40px;
+  padding-left: 30px;
+  padding-right: 20px;
+  position: absolute;
+  z-index: 0;
+  cursor: default;
+}
+
+.texto-salida:focus{
+  outline: none;
+}
+
+.img-msg{
+  scale: 39%;
+  background: none;
+  z-index: 0;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 50px;
+  cursor: default;
+}
+
+.no-msg{
+  background: none;
+  z-index: 0;
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 150%;
+  width: 320px;
+  margin-top: 500px;
+  margin-left: 150px;
+  cursor: default;
+}
+
+.ingresar-msg{
+  background: none;
+  z-index: 0;
+  position: absolute;
+  text-align: center;
+  scale: 40%;
+  width: 650px;
+  margin-top: 545px;
+  margin-left: -15px;
+  cursor: default;
+}
+
+.rectangulo{
+  background: #e6fff8;
+  z-index: 1;
+  height:100px;
+  width:350px;
+  margin-top: 630px;
+  margin-left: 130px;
+  position: absolute;
+  cursor: default;
+}
+
+.copiar{
+  z-index: 0;
+  border: 1px solid #2b3c39;
+  border-radius: 24px;
+  color: #FF9B05;
+  cursor: pointer;
+  height: 60px;
+  width: 328px;
+  margin-top: 655px;
+  margin-left: 145px;
+  position: absolute;  
+}
+
+.pie-pagina{
+  background-color: #FF9B05;
+}
+
+.firma{
+  background-color: #FF9B05;
+    font-family: 'Kanit';
+  display: block;
+  color: #e6fff8;
+  padding-top: 27px;
+  padding-bottom: 9px;
+  margin-top: 127px;
+  text-align: center;
+  z-index: 0;
+  font-size: 24px;
+
+}
+
+.contacto{
+  z-index: 1;
+  background-color: #FF9B05;
+  display: block;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-top: 0%;
+}
+
+.linkedin{
+  width: 21px;
+  background-color: #FF9B05;
+  vertical-align: bottom;
+}
+
+@media screen and (max-width: 1080px) {
+
+  main{
+    display: block;
+    margin-left: 0;
+    margin-bottom: 380px;
+  }
+
+  .entrada{
+    margin-right: 0;
+  }
+
+  .texto-entrada{
+    width: 90%;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .informacion{
+    scale: 60%;
+    margin-left: 0;
+    text-align: center;
+    cursor: default;
+  }
+
+  .botones{
+    display: block;
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  .btn-encriptar{
+    width: 45%;
+    margin-right: 2%;
+  }
+  
+  .btn-desencriptar{
+    width: 45%;
+  }
+
+  .texto-salida{
+    z-index: 0;
+    width: 90%;
+    height: 210px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+
+  .img-msg{
+    display: none;
+  }
+
+  .no-msg{
+    z-index: 2;
+    font-size: 30px;
+    display: block; 
+    position: absolute;
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 0;
+  }
+
+  .ingresar-msg{
+    z-index: 2;
+    scale: 60%;
+    display: block; 
+    position: absolute;
+    width: 100%;
+    margin-top: 15%;
+    margin-left: 0;
+  }
+
+  .rectangulo{
+    z-index: 1;
+    display: block; 
+    position: absolute;
+    width: 90%;
+    height: 200px;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .copiar{
+    z-index: 0;
+    display: block; 
+    position: absolute;
+    width: 80%;
+    margin-top: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .pie-pagina{
+    background: none;
+  }
+
+  .contacto{
+    background: #0A3871;
+    display: block; 
+    position: absolute;
+    width: 100%;
+    padding-bottom: 20px;
+    margin-top: 0;
+  }
+
+  .github, .linkedin{
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  main{
+    display: block;
+    margin-left: 0;
+    margin-bottom: 380px;
+  }
+
+  .entrada{
+    margin-right: 0;
+  }
+
+  .texto-entrada{
+    width: 90%;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .informacion{
+    scale: 60%;
+    margin-left: 0;
+    text-align: center;
+    cursor: default;
+  }
+
+  .botones{
+    display: block;
+    width: 90%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  .btn-encriptar{
+    width: 45%;
+    margin-right: 2%;
+  }
+  
+  .btn-desencriptar{
+    width: 45%;
+  }
+
+  .texto-salida{
+    z-index: 0;
+    width: 90%;
+    height: 210px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+
+  .img-msg{
+    display: none;
+  }
+
+  .no-msg{
+    z-index: 2;
+    font-size: 30px;
+    display: block; 
+    position: absolute;
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 0;
+  }
+
+  .ingresar-msg{
+    z-index: 2;
+    scale: 60%;
+    display: block; 
+    position: absolute;
+    width: 100%;
+    margin-top: 15%;
+    margin-left: 0;
+  }
+
+  .rectangulo{
+    z-index: 1;
+    display: block; 
+    position: absolute;
+    width: 90%;
+    height: 200px;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .copiar{
+    z-index: 0;
+    display: block; 
+    position: absolute;
+    width: 80%;
+    margin-top: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .pie-pagina{
+    background: none;
+  }
+
+  .contacto{
+    background: #FF9B05;
+    display: block; 
+    position: absolute;
+    width: 100%;
+    padding-bottom: 20px;
+    margin-top: 0;
+  }
+
+  .linkedin{
+    width: 21px;
+    background-color: #FF9B05;
+    vertical-align: bottom;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  main{
+    display: block;
+    margin-left: 0;
+    margin-bottom: 380px;
+  }
+
+  .entrada{
+    margin-right: 0;
+  }
+
+  .texto-entrada{
+    width: 90%;
+    height: 250px;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 100%;
+  }
+
+  .informacion{
+    scale: 60%;
+    margin-left: 0;
+    text-align: center;
+    cursor: default;
+  }
+
+  .botones{
+    display: block;
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  .btn-encriptar{
+    width: 40%;
+    margin-right: 2%;
+    font-size: 18px;
+  }
+  
+  .btn-desencriptar{
+    width: 40%;
+    font-size: 18px;
+  }
+
+  .texto-salida{
+    z-index: 0;
+    width: 90%;
+    height: 210px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+
+  .img-msg{
+    display: none;
+  }
+
+  .no-msg{
+    z-index: 2;
+    font-size: 30px;
+    display: block; 
+    position: absolute;
+    width: 80%;
+    margin-top: 13%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+  }
+
+  .ingresar-msg{
+    z-index: 2;
+    scale: 60%;
+    display: block; 
+    position: absolute;
+    width: 80%;
+    margin-top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+  }
+
+  .rectangulo{
+    z-index: 1;
+    display: block; 
+    position: absolute;
+    width: 90%;
+    height: 220px;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .copiar{
+    z-index: 0;
+    display: block; 
+    position: absolute;
+    width: 80%;
+    margin-top: 60%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .pie-pagina{
+    background: #F9B051;
+  }
+
+  .contacto{
+    background: #F9B051;
+    display: block; 
+    position: absolute;
+    width: 10%;
+    padding-bottom: 20px;
+    margin-top: 0;
+  }
+
+  .linkedin{
+    width: 21px;
+    background-color: #FF9B05;
+    vertical-align: bottom;
+  }
+}
+
+
+/*
+MuvaDev
+*/

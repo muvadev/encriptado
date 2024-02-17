@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de texto</title>
+    <link rel="shortcut icon" href="imagenes/candado.png">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Honk&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<body>
+    <header>
+        <a href="https://github.com/muvadev" target="_blank"><img class="logo" src="imagenes/v1c.png"></a>
+    </header>
+
+    <main>
+        <section class="entrada">
+            <textarea id="texto-entrada" class="texto-entrada" cols="30" rows="10" placeholder="Ingrese el texto aqui camarada" autofocus></textarea>
+            <div>
+                <p class="informacion">&#9888; Solo acepta caracteres en minúsculas
+            <div class="botones">
+                <button class="btn-encriptar" onclick="encriptar()">Encriptar</button>
+                <button class="btn-desencriptar" onclick="desEncriptar()">Desencriptar</button>
+            </div>
+        </section>
+
+        <section class="salida">
+            <textarea id="texto-salida" class="texto-salida" cols="20" rows="15"></textarea>
+            <div id="ocultar">
+                <img class="img-msg" src="imagenes/escudo.png">
+                <p class="no-msg">Ningún mensaje ha sido encontrado</p>
+                <p class="ingresar-msg">Ingresa el texto para encriptar o desencriptar</p>
+                <p class="rectangulo"></p>
+            </div>
+            <div>
+                <button id="copiar" class="copiar" onclick="copiar()">Copiar</button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="pie-pagina">
+        <p class="firma">muvadev</p>
+        <div class="contacto">
+            <a href="https://github.com/muvadev" target="_blank"><img class="linkedin" src="imagenes/gihubpng2.png"></a>
+            <a href="https://www.linkedin.com/in/vhmunoz/" target="_blank"><img class="linkedin" src="imagenes/linkedinpng2.png"></a>
+            </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+/*
+MuvaDev
+*/
